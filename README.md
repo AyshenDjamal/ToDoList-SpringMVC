@@ -19,6 +19,7 @@
 2. PostgreSQL verilənlər bazasında uyğun cədvəl yaratmaq üçün SQL skriptlərini işlədin.
 3. Tətbiqi işə salın.
 
+
     
 # ToDoList App - Implemented with JDBC
 **Project Description:**
